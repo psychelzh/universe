@@ -1,0 +1,14 @@
+[
+    {
+        "package": "tarflow.iquizoo",
+        "url": "https://github.com/psychelzh/tarflow.iquizoo"
+    },
+    {
+        "package": "preproc.iquizoo",
+        "url": "https://github.com/psychelzh/preproc.iquizoo"
+    },
+    {
+        "package": "data.iquizoo",
+        "url": "https://github.com/psychelzh/data.iquizoo"
+    }
+]
